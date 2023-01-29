@@ -1,4 +1,4 @@
 # Sadistic
 :-(
 
-https://scott-zeta.github.io/
+https://scott-zeta.github.io/Sadistic/
